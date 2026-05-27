@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "kanban": {
+      "command": "/Users/j.loose/Documents/GitHub/Obsidian Kanban MCP/.venv/bin/python",
+      "args": ["/Users/j.loose/Documents/GitHub/Obsidian Kanban MCP/kanban_mcp.py"],
+      "env": {
+        "KANBAN_FILE": "/Users/j.loose/Documents/GitHub/CodeIsland/docs/kanban.md"
+      }
+    }
+  }
+}
